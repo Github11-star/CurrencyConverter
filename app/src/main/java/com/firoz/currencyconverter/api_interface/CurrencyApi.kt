@@ -1,4 +1,4 @@
-package com.firoz.currencyconverter.data
+package com.firoz.currencyconverter.api_interface
 
 import com.firoz.currencyconverter.data.models.CurrencyResponse
 import retrofit2.Response
